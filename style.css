@@ -1,0 +1,26 @@
+
+input{
+    width: 30px;
+    margin: 2px;
+    text-align: center;
+    font-size: 28px;
+}
+
+.error1{
+    color: red;
+
+}
+
+.colors1{
+
+    background: green;
+}
+
+.colors2{
+
+    background: skyblue;
+}
+.colors3{
+
+    background: palevioletred;
+}
